@@ -1,0 +1,6 @@
+[requires]
+boost/1.73.0
+Poco/1.7.2@lasote/stable
+
+[generators]
+cmake
